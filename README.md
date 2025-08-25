@@ -2,6 +2,9 @@
 
 A modern, responsive portfolio website showcasing my AI engineering projects and professional experience, built with React and Tailwind CSS.
 
+## Deployed Link
+https://mariakiyani012.github.io/my_portfolio_website/
+
 ## Features
 
 - **Responsive Design**: Mobile-first approach with smooth transitions
