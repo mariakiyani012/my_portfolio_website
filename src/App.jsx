@@ -69,6 +69,13 @@ const App = () => {
 
   const projects = [
     {
+      title: "AI Logistics Voice Agent",
+      description: "Built a full-stack AI voice agent for logistics using FastAPI, React, and Supabase, integrated with Retell AI (STT/TTS) for real-time calling and OpenAI LLMs for adaptive conversation logic, agent configuration, and post-call structured summaries.",
+      tech: ["FastAPI", "React", "Supabase", "Retell AI", "OpenAI LLMs"],
+      features: ["Real-time calling", "Adaptive conversation logic", "Post-call summaries"],
+      github: "https://github.com/mariakiyani012/AI_logistics_voice_agent"
+    },
+    {
       title: "Self-Help RAG Chatbot",
       description: "Motivational chatbot that retrieves insights from self-help books using RAG architecture",
       tech: ["LangChain", "GPT-4", "OpenAI Embeddings", "FAISS", "Streamlit"],
@@ -94,7 +101,7 @@ const App = () => {
       description: "Doctor's assistance app for monitoring neonates' vital parameters and physiological behavior",
       tech: ["OpenCV", "MediaPipe", "Custom CNN", "ResNet50", "SVMs"],
       features: ["Abnormality detection", "Alert mechanism", "Physiological monitoring"],
-      github: "#"
+      // github: "#"
     }
   ];
 
