@@ -84,7 +84,7 @@ const App = () => {
     },
     {
       title: "Agentic AI BI Platform",
-      description: "A platform with agentic workflows for data ingestion, pattern detection and insight generation, with real-time dashboards and summaries.",
+      description: "Agentic workflows for data ingestion, pattern detection and insight generation, with real-time dashboards and summaries.",
       tech: ["OpenAI GPT", "LangGraph", "Streamlit"],
       features: ["Data ingestion & cleaning", "Pattern detection & Visualization", "Automated business summaries"],
       github: "https://github.com/mariakiyani012/Agentic_BI_Platform"
