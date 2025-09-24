@@ -70,7 +70,7 @@ const App = () => {
   const projects = [
     {
       title: "AI Logistics Voice Agent",
-      description: "Built a full-stack AI voice agent for logistics for real-time calling with adaptive conversation logic, agent configuration, and post-call structured summaries.",
+      description: "Built a full-stack AI voice agent for logistics for real-time calling with adaptive conversation logic, agent configuration, and structured call summaries.",
       tech: ["FastAPI", "React", "Supabase", "Retell AI", "OpenAI LLMs"],
       features: ["Real-time calling", "Adaptive conversation logic", "Post-call summaries"],
       github: "https://github.com/mariakiyani012/AI_logistics_voice_agent"
@@ -84,9 +84,9 @@ const App = () => {
     },
     {
       title: "Agentic AI BI Platform",
-      description: "A BI platform with agentic workflow for data ingestion, cleaning, pattern detection and insight generation, with real-time dashboards and automated business summaries.",
+      description: "A BI platform with agentic workflows for data ingestion, pattern detection and insight generation, with real-time dashboards and automated summaries.",
       tech: ["OpenAI GPT", "LangGraph", "Streamlit"],
-      features: ["Data ingestion & cleaning", "Pattern detection", "Visualization & dashboards", "Automated business summaries"],
+      features: ["Data ingestion & cleaning", "Pattern detection & Visualization", "Automated business summaries"],
       github: "https://github.com/mariakiyani012/Agentic_BI_Platform"
     },
     {
