@@ -70,7 +70,7 @@ const App = () => {
   const projects = [
     {
       title: "AI Logistics Voice Agent",
-      description: "A full stack AI voice agent for real-time calling with adaptive conversation logic, agent configuration, and structured call summaries.",
+      description: "A full stack AI voice agent for real-time calling with adaptive conversation, agent configuration, and structured call summaries.",
       tech: ["FastAPI", "React", "Supabase", "Retell AI", "OpenAI LLMs"],
       features: ["Real-time calling", "Adaptive conversation logic", "Post-call summaries"],
       github: "https://github.com/mariakiyani012/AI_logistics_voice_agent"
