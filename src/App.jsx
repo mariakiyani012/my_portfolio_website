@@ -83,6 +83,13 @@ const App = () => {
       github: "https://github.com/mariakiyani012/Self_Help_RAG_Chatbot"
     },
     {
+      title: "Agentic AI BI Platform",
+      description: "Designed a BI platform using OpenAI GPT, LangGraph orchestration for agentic workflows, and Streamlit for data ingestion, cleaning, pattern detection, visualization, and insight generation, with real-time dashboards and automated business summaries.",
+      tech: ["OpenAI GPT", "LangGraph", "Streamlit"],
+      features: ["Data ingestion & cleaning", "Pattern detection", "Visualization & dashboards", "Automated business summaries"],
+      github: "https://github.com/mariakiyani012/Agentic_BI_Platform"
+    },
+    {
       title: "Agentic AI Blog Generator",
       description: "Multi-agent system with interdependent Researcher and Content Writer agents",
       tech: ["CrewAI", "GPT-4", "Serper API"],
